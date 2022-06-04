@@ -2,3 +2,5 @@
 Dear friends,
 
 	On day 9 we are learn about Git and Github Concepts.
+	Also, we learn about all Git operations like commit,
+	push, pull, clone, fetch and merge branch etc.
